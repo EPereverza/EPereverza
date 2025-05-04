@@ -11,7 +11,7 @@ Student and novice developer
 Долгое описание
 
 * 🌍  I'm based in Russia, Saint Petersburg
-* 🖥️  See my portfolio at [WhoverPortfolio](http://epereverza.github.io/web-Portfolio-Whover/)
+* 🖥️  See my portfolio at [WhoverPortfolio](https://epereverza.github.io/WhoverPortfolio/)
 * ✉️  You can contact me at [pereverza5512@gmail.com](mailto:pereverza5512@gmail.com)
 * 🧠  I'm learning JS, python in detail
 
