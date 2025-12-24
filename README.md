@@ -2,10 +2,10 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-Hi 👋 My name is Egor!
+Hi 👋!
 ======================
 
-Student and novice developer
+Student and developer
 ----------------------------
 
 Долгое описание
@@ -13,7 +13,7 @@ Student and novice developer
 * 🌍  I'm based in Russia, Saint Petersburg
 * 🖥️  See my portfolio at [WhoverPortfolio](https://epereverza.github.io/WhoverPortfolio/)
 * ✉️  You can contact me at [pereverza5512@gmail.com](mailto:pereverza5512@gmail.com)
-* 🧠  I'm learning JS, python in detail
+* 🧠  ...
 
 ### Skills
 
